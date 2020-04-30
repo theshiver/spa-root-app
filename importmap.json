@@ -1,0 +1,19 @@
+{
+    "imports": {
+        "@polyglot-mf/root-config": "https://polyglot.microfrontends.app/root-config/24ac4f1c759e212983352483c3c22454a1c6f53a/polyglot-mf-root-config.js",
+        "single-spa": "https://cdn.jsdelivr.net/npm/single-spa@5.3.4/lib/system/single-spa.min.js",
+        "react": "https://cdn.jsdelivr.net/npm/react@16.12.0/umd/react.production.min.js",
+        "react-dom": "https://cdn.jsdelivr.net/npm/react-dom@16.12.0/umd/react-dom.production.min.js",
+        "@polyglot-mf/navbar": "https://polyglot.microfrontends.app/navbar/ea5d5f3be12327a70bf1627337299ddc0b94823f/polyglot-mf-navbar.js",
+        "@polyglot-mf/styleguide": "https://polyglot.microfrontends.app/styleguide/0f2ba926b468ed6e4709e98599cbee12fe1402c5/polyglot-mf-styleguide.js",
+        "vue": "https://cdn.jsdelivr.net/npm/vue@2.6.11/dist/vue.min.js",
+        "vue-router": "https://cdn.jsdelivr.net/npm/vue-router@3.1.5/dist/vue-router.min.js",
+        "@polyglot-mf/clients": "https://polyglot.microfrontends.app/clients/3b0242d0178881a1990d22b1e4bba252b9b48fd6/js/app.js",
+        "@polyglot-mf/account-settings-sameroute": "../account-settings/dist/polyglot-mf-account-settings.js",
+        "@polyglot-mf/account-settings-working": "http://localhost:8080/dist/polyglot-mf-account-settings.js",
+        "@polyglot-mf/account-settings-backup": "https://polyglot.microfrontends.app/account-settings/379b52175c9f274743f7e469a7e3477b6ed6b927/polyglot-mf-account-settings.js",
+        "@polyglot-mf/account-settings": "http://localhost:9009/bundle.js",
+        "@polyglot-mf/account-settings2": "http://localhost:9008/bundle2.js",
+        "single-spa-angularjs": "https://cdn.jsdelivr.net/npm/single-spa-angularjs@3.2.0/lib/single-spa-angularjs.js"
+    }
+}
